@@ -1,2 +1,2 @@
 # charged_wall
-Models of electrostatic potential and Ion concentration of electrolyte solution close so charged solid boundaries
+Models of electrostatic potential and ion concentration in an electrolyte solution near a charged solid boundary
